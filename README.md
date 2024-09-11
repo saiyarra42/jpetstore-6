@@ -82,6 +82,10 @@ xsHBbxs
 \S cxnsXa
 xABXanx
 Aan xnA'
+bcsvbsbncsa
+sasansancsa
+sacnsacs
+sacncsa
 
 ## Try integration tests
 
